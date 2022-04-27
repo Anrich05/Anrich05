@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anrich05
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me joubertanrich@gmail.com
 
 <!---
 Anrich05/Anrich05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
